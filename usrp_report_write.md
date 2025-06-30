@@ -4,7 +4,7 @@ theme: gaia
 paginate: true
 math: katex
 ---
-# 學、做、「寫｣
+# 學、作、「寫｣
 賴敬丰
 
 ---
